@@ -16,7 +16,9 @@ jobs:
         with:
           github_user_name: abdohshem125
           outputs: |
-            dist/snake-dark.svg
+           dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-light
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
