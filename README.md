@@ -4,10 +4,21 @@
   </a>
 </h1>
 
+<div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdohshem125)
 [![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/abdohshem125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-hashem18/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdohashim228@gmail.com)
+
+</div>
+
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+###
 
 
 💻 A Computer Science graduate passionate about building dynamic, responsive, and high-quality web applications.
@@ -19,10 +30,6 @@
 
 - 📫 **How to reach me**  
   * 📱 **Phone:** [+20 1150639329](tel:+201150639329)  
-  * 📧 **Email:** [abdohashim228@gmail.com](mailto:abdohashim228@gmail.com)  
-  * 🌐 **LinkedIn:** [linkedin.com/in/abdulrahman-hashem18](https://www.linkedin.com/in/abdulrahman-hashem18/)  
-  * 🐙 **GitHub:** [github.com/abdohshem125](https://github.com/abdohshem125)
- 
     ---
     
 <h3 align="left">Languages:</h3>
