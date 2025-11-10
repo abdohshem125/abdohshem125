@@ -2,15 +2,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This'is+Abdulrahman+Hashem....;Software+Engineer;Front-End+Developer;Nice+to+meet+you!&center=true&size=30">
   </a>
+</h1>
 <div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdohshem125)
 [![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/abdohshem125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-hashem18/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdohashim228@gmail.com)
-
 </div>
-</h1>
 
 ---
 
