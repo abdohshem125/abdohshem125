@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: abdohshem125
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.svg?palette=github-light
+
+      - name: Push to output branch
+        uses: s0/git-publish-subdir-action@develop
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
