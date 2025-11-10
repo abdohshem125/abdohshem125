@@ -75,6 +75,8 @@
 
 <h3 align="left">DevOps & Tools:</h3>
 <p align="left">
+<div>
+
 
 <!-- Docker -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -135,9 +137,11 @@
 
 </p>
 
+</div>
 
 
 
-  
+  ![Snake Animation](https://github.com/abdohshem125/abdohshem125/blob/output/snake-dark.svg)
+
  
     
