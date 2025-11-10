@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=abdohshem125&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdohshem125)
+[![GitHub Followers](https://img.shields.io/github/followers/abdohshem125?style=social)](https://github.com/abdohshem125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-hashem18/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:abdohashim228@gmail.com)
+
+
 💻 A Computer Science graduate passionate about building dynamic, responsive, and high-quality web applications.
 ⚛️ Junior Frontend Developer with expertise in React.js, JavaScript, and modern web development practices.
 🔗 Experienced in working with REST APIs, version control systems (Git/GitHub), and clean code principles.
