@@ -12,7 +12,15 @@
 </div>
 </h1>
 
+---
 
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+###
 
 ###
 
@@ -31,6 +39,9 @@
 - 📫 **How to reach me**  
   * 📱 **Phone:** [+20 1150639329](tel:+201150639329)  
     ---
+
+## 🛠️ Tech Stack
+
     
 <h3 align="left">Languages:</h3>
 <p align="left">
