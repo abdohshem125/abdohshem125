@@ -142,6 +142,3 @@
 
 
   ![Snake Animation](https://github.com/abdohshem125/abdohshem125/blob/output/snake-dark.svg)
-
- 
-    
